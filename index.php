@@ -7,7 +7,7 @@ include('includes/dbconnection.php');
 <html lang="en">
 
 <head>
-    <title>My Love || Home Page</title>
+    <title>Campus Placement Management Syetem || Home Page</title>
    
     <script>
         addEventListener("load", function() {

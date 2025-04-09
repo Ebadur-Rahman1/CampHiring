@@ -87,7 +87,7 @@ include('includes/dbconnection.php');
                 </div>
             </div>
            <div class="copyright mt-4">
-                <p class="copy-right text-center ">&copy; 2023 CampHiring.
+                <p class="copy-right text-center ">&copy; 2025 CampHiring.
                 </p>
             </div>
 
